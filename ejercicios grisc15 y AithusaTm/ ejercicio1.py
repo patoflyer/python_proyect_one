@@ -12,3 +12,4 @@ def tirar_dados(iteraciones):
 resultados = tirar_dados(10000)
 for i, resultado in enumerate(resultados):
     print(f"Se obtuvo {resultado} veces la suma {i+2}")
+#Comentario de prueba
